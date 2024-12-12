@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+}
+
+header, .sidebar, .video-list {
+  margin: 10px;
+}
